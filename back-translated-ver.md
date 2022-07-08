@@ -10,6 +10,10 @@ The following questions are about how you use your smartphone, and things that y
 
 - G2. How often do you send and/or receive text messages (LINE, direct messages, etc.) and emails?
 
+::: {custom-style="comment"}
+LINE is the most popular text messaging app in Japan.
+:::
+
 - G3. How often do you receive notifications on your smartphone?
 
 - G4. How often do you check your smartphone for new notifications such as text messages (LINE and direct messages, etc.) and emails?
@@ -24,9 +28,22 @@ The following questions are about how you use your smartphone, and things that y
 
 - G9. How often do you check SNS apps such as Instagram, TikTok, Facebook and Twitter? 
 
+::: {custom-style="comment"}
+We listed popular SNS apps in Japan.
+:::
+
 - G10. How often do you use your smartphone for entertainment (games, books, music, and videos, etc.)?
 
+::: {custom-style="comment"}
+Since we couldn't translate "apps" into Japanese, we listed entertainment apps.
+:::
+
 - A1. When you unlock your smartphone with a particular task in mind, how often do you find yourself starting to do something else without being aware of it?
+
+::: {custom-style="comment"}
+Although he back-translated it as "unlock", I think the Japanese version doesn't have a nuance such as "entering password".
+It was rather the usually used word referring "starting to use or check smartphone".
+:::
 
 - A2. How often do you check your smartphone while talking with someone? 
 
@@ -35,6 +52,11 @@ The following questions are about how you use your smartphone, and things that y
 - A4. How often do you unconsciously check your smartphone with no specific purpose in mind?
 
 - A5. If you habitually check your smartphone, how often do you do this? 
+
+::: {custom-style="comment"}
+The term "habitually" in this back-translation might have the nuance such as "at the fixed timings" (e.g., Every time one wakes up; Every time one get a train).
+But we think the Japanese version means rather like "I do just because always I do."
+:::
 
 - A6. How often do you find yourself checking your smartphone without really knowing why?
 
