@@ -10,6 +10,10 @@ Please respond with how often you usually have these experiences.
 
 - G2.  How often do you send or receive text messages (e.g., LINE, direct messages) and emails?
 
+::: {custom-style="comment"}
+LINE is the most popular text messaging app in Japan.
+:::
+
 - G3.  How often do you receive notifications on your smartphone?
 
 - G4.  How often do you check your smartphone to see whether you have new notifications for things like receiving text messages (e.g., LINE, direct messages) or emails?
@@ -24,7 +28,15 @@ Please respond with how often you usually have these experiences.
 
 - G9.  How often do you look at social media apps like Instagram, TikTok, Facebook, or Twitter?
 
+::: {custom-style="comment"}
+We listed popular SNS apps in Japan.
+:::
+
 - G10. How often do you use your smartphone for entertainment purposes (e.g., games, books, music, videos)?
+
+::: {custom-style="comment"}
+Since we couldn't translate "apps" into Japanese, we listed entertainment apps.
+:::
 
 - A1.  How often do you open your smartphone to try to do one thing, but start doing something else without realizing it?
 
